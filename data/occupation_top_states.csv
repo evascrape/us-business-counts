@@ -1,0 +1,91 @@
+role,state,employment,median_annual_wage_usd
+ceo,California,36980,220600
+ceo,Pennsylvania,14140,220510
+ceo,New York,7830,219320
+ceo,Massachusetts,7110,
+ceo,Minnesota,6690,194160
+ceo,Georgia,5440,201750
+operations-manager,Texas,454720,100290
+operations-manager,California,292300,125240
+operations-manager,Florida,249620,100750
+operations-manager,New York,210890,129990
+operations-manager,Illinois,170790,101430
+operations-manager,Pennsylvania,168110,100400
+marketing-manager,California,56300,178160
+marketing-manager,New York,49480,172590
+marketing-manager,Texas,43920,140620
+marketing-manager,Illinois,21670,154480
+marketing-manager,Florida,20630,130490
+marketing-manager,Massachusetts,13520,192480
+sales-manager,California,108120,132440
+sales-manager,Texas,76980,132250
+sales-manager,Florida,37060,126410
+sales-manager,New York,35160,214350
+sales-manager,Illinois,31160,142170
+sales-manager,Ohio,20320,130210
+hr-manager,California,27680,169140
+hr-manager,New York,16720,171440
+hr-manager,Illinois,13700,134320
+hr-manager,Florida,10960,124950
+hr-manager,Pennsylvania,7970,130830
+hr-manager,Georgia,7080,138050
+it-manager,California,100020,211340
+it-manager,Texas,74890,167320
+it-manager,New York,40780,209980
+it-manager,New Jersey,33860,196480
+it-manager,Florida,32340,164620
+it-manager,Illinois,27550,165720
+finance-manager,California,96860,174920
+finance-manager,Texas,67580,160350
+finance-manager,New York,67510,215740
+finance-manager,Illinois,53400,159990
+finance-manager,Florida,47710,143100
+finance-manager,New Jersey,32370,188750
+purchasing-manager,Texas,8100,132270
+purchasing-manager,California,7260,152190
+purchasing-manager,New York,5980,164950
+purchasing-manager,Illinois,4130,139330
+purchasing-manager,Florida,4040,125690
+purchasing-manager,Virginia,3630,161300
+construction-manager,Texas,51960,99600
+construction-manager,California,35790,129000
+construction-manager,Florida,28090,103320
+construction-manager,North Carolina,17100,104750
+construction-manager,Illinois,16740,108570
+construction-manager,Ohio,14900,96440
+medical-practice-manager,California,68800,136500
+medical-practice-manager,Texas,57150,106590
+medical-practice-manager,Florida,40550,106280
+medical-practice-manager,New York,31010,149820
+medical-practice-manager,Pennsylvania,26430,103720
+medical-practice-manager,Ohio,23280,105040
+property-manager,California,50410,75140
+property-manager,Florida,30350,65160
+property-manager,New York,12940,77320
+property-manager,Illinois,10070,73250
+property-manager,North Carolina,9850,
+property-manager,Ohio,9740,57100
+recruiter,California,104880,81810
+recruiter,Texas,85580,64560
+recruiter,Florida,62880,63960
+recruiter,New York,53030,81140
+recruiter,Pennsylvania,36710,66020
+recruiter,Ohio,34590,64600
+software-engineer,California,292630,170910
+software-engineer,Texas,151460,130500
+software-engineer,New York,104130,161260
+software-engineer,Washington,91470,166910
+software-engineer,Virginia,83290,134470
+software-engineer,Florida,82610,126550
+accountant,California,173370,96360
+accountant,New York,111860,101780
+accountant,Texas,109530,80000
+accountant,Florida,90880,78470
+accountant,Illinois,54690,79300
+accountant,Pennsylvania,54440,77330
+financial-advisor,California,34070,128650
+financial-advisor,New York,28820,167970
+financial-advisor,Florida,21230,88040
+financial-advisor,Texas,17570,82180
+financial-advisor,North Carolina,12850,
+financial-advisor,Pennsylvania,12370,103290

@@ -1,0 +1,16 @@
+role,soc,occupation,employment,median_annual_wage_usd
+ceo,11-1011,Chief Executives,211850,206420
+operations-manager,11-1021,General and Operations Managers,3584420,102950
+marketing-manager,11-2021,Marketing Managers,384980,161030
+sales-manager,11-2022,Sales Managers,603710,138060
+hr-manager,11-3121,Human Resources Managers,215520,140030
+it-manager,11-3021,Computer and Information Systems Managers,645970,171200
+finance-manager,11-3031,Financial Managers,818620,161700
+purchasing-manager,11-3061,Purchasing Managers,81240,139510
+construction-manager,11-9021,Construction Managers,348330,106980
+medical-practice-manager,11-9111,Medical and Health Services Managers,565840,117960
+property-manager,11-9141,"Property, Real Estate, and Community Association Managers",296640,66700
+recruiter,13-1071,Human Resources Specialists,917460,72910
+software-engineer,15-1252,Software Developers,1654440,133080
+accountant,13-2011,Accountants and Auditors,1448290,81680
+financial-advisor,13-2052,Personal Financial Advisors,270480,102140

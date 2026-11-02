@@ -1,0 +1,1021 @@
+industry,state,establishments,rank,employees,annual_payroll_usd
+software-companies,California,3890,1,300096,73706076000
+software-companies,Texas,1302,2,76184,12393757000
+software-companies,New York,1264,3,46590,9640800000
+software-companies,Florida,908,4,37510,5600768000
+software-companies,Washington,860,5,98089,28057317000
+software-companies,Massachusetts,756,6,57916,11154469000
+software-companies,Illinois,618,7,32688,5607996000
+software-companies,Colorado,587,8,25649,5458732000
+software-companies,Georgia,531,9,32216,5443694000
+software-companies,North Carolina,524,10,24981,4382541000
+software-companies,Virginia,494,11,25789,5001861000
+software-companies,Pennsylvania,468,12,20115,3360573000
+software-companies,Utah,418,13,31018,4501977000
+software-companies,Oregon,416,14,13674,2244373000
+software-companies,New Jersey,390,15,12584,2066198000
+software-companies,Ohio,368,16,16403,2139043000
+software-companies,Michigan,353,17,13780,2094650000
+software-companies,Delaware,346,18,5041,764092000
+software-companies,Arizona,323,19,10420,1550554000
+software-companies,Minnesota,291,20,15257,2310036000
+software-companies,Nevada,273,21,3177,392012000
+software-companies,Maryland,270,22,9341,1714535000
+software-companies,Tennessee,261,23,4943,635504000
+software-companies,Wisconsin,201,24,22577,3184589000
+software-companies,Missouri,194,25,5573,815802000
+software-companies,Connecticut,188,26,3948,584088000
+software-companies,Indiana,177,27,8590,1602764000
+software-companies,Alabama,151,28,5833,685313000
+software-companies,South Carolina,146,29,4886,646591000
+software-companies,New Hampshire,121,30,4350,677412000
+software-companies,Kansas,114,31,4491,565984000
+software-companies,Iowa,109,32,3748,492100000
+software-companies,District of Columbia,104,33,4011,654571000
+software-companies,Kentucky,92,34,1170,127446000
+software-companies,Louisiana,86,35,1321,144867000
+software-companies,Idaho,85,36,7703,1062779000
+software-companies,Oklahoma,82,37,1122,143504000
+software-companies,Nebraska,81,38,6170,541977000
+software-companies,Maine,66,39,501,67748000
+software-companies,Rhode Island,65,40,1772,231528000
+software-companies,Wyoming,62,41,330,41611000
+software-companies,Hawaii,57,42,348,48879000
+software-companies,Arkansas,56,43,2863,330304000
+software-companies,Montana,55,44,,188149000
+software-companies,New Mexico,52,45,464,64400000
+software-companies,Vermont,47,46,755,104225000
+software-companies,North Dakota,30,47,,
+software-companies,South Dakota,28,48,335,32493000
+software-companies,West Virginia,26,49,178,22958000
+software-companies,Mississippi,24,50,,33223000
+software-companies,Alaska,15,51,,
+it-services-companies,California,20696,1,299029,50183458000
+it-services-companies,Texas,14905,2,192176,23191249000
+it-services-companies,Florida,10395,3,96162,9997435000
+it-services-companies,Virginia,9439,4,204399,24298146000
+it-services-companies,New York,7670,5,90348,12001263000
+it-services-companies,New Jersey,6369,6,85654,9661511000
+it-services-companies,Illinois,6023,7,80067,9953785000
+it-services-companies,Georgia,5655,8,92751,10381660000
+it-services-companies,Maryland,5227,9,86551,10018237000
+it-services-companies,Pennsylvania,4404,10,68334,7231412000
+it-services-companies,Colorado,4264,11,55523,6710847000
+it-services-companies,North Carolina,4038,12,49873,5690719000
+it-services-companies,Washington,3684,13,53995,7108942000
+it-services-companies,Ohio,3456,14,50324,5265425000
+it-services-companies,Massachusetts,3291,15,63043,9898568000
+it-services-companies,Michigan,3049,16,45856,4713922000
+it-services-companies,Minnesota,2767,17,29258,3241304000
+it-services-companies,Arizona,2608,18,34181,3738509000
+it-services-companies,Indiana,1785,19,24018,1992585000
+it-services-companies,Wisconsin,1719,20,22141,2292037000
+it-services-companies,Missouri,1670,21,45435,4669032000
+it-services-companies,Utah,1614,22,22942,2271058000
+it-services-companies,Tennessee,1500,23,21457,2072051000
+it-services-companies,Oregon,1425,24,11651,1311369000
+it-services-companies,Delaware,1407,25,11143,1561154000
+it-services-companies,Nevada,1360,26,8438,957475000
+it-services-companies,South Carolina,1322,27,16888,1705705000
+it-services-companies,Connecticut,1278,28,20869,2415582000
+it-services-companies,Alabama,1068,29,23766,2373190000
+it-services-companies,Kansas,972,30,12311,1136643000
+it-services-companies,Kentucky,931,31,14720,1344483000
+it-services-companies,Oklahoma,901,32,11020,965294000
+it-services-companies,District of Columbia,839,33,15625,1829378000
+it-services-companies,Louisiana,837,34,9526,772328000
+it-services-companies,Iowa,705,35,13761,1238204000
+it-services-companies,New Hampshire,658,36,7686,1009294000
+it-services-companies,Nebraska,649,37,9689,771613000
+it-services-companies,Idaho,648,38,4097,353383000
+it-services-companies,Arkansas,566,39,5588,518590000
+it-services-companies,Wyoming,477,40,1554,134084000
+it-services-companies,New Mexico,466,41,4146,416518000
+it-services-companies,Hawaii,403,42,2937,290199000
+it-services-companies,Maine,394,43,4502,485624000
+it-services-companies,Montana,394,44,2842,288284000
+it-services-companies,Mississippi,370,45,3933,268139000
+it-services-companies,Rhode Island,368,46,6760,800270000
+it-services-companies,Vermont,263,47,1946,203763000
+it-services-companies,South Dakota,256,48,1998,178602000
+it-services-companies,West Virginia,249,49,3549,336570000
+it-services-companies,Alaska,194,50,3717,348537000
+it-services-companies,North Dakota,185,51,2447,185513000
+marketing-agencies,California,5926,1,70334,7253621000
+marketing-agencies,New York,3633,2,84473,10267665000
+marketing-agencies,Florida,3356,3,21896,1791957000
+marketing-agencies,Texas,2670,4,28379,2153190000
+marketing-agencies,Illinois,1734,5,31214,2779886000
+marketing-agencies,Pennsylvania,1271,6,14814,1060250000
+marketing-agencies,Georgia,1222,7,15647,1816812000
+marketing-agencies,North Carolina,1123,8,11757,693653000
+marketing-agencies,Ohio,1041,9,10689,823722000
+marketing-agencies,New Jersey,1032,10,15238,1178541000
+marketing-agencies,Colorado,949,11,6698,651162000
+marketing-agencies,Virginia,898,12,9556,848625000
+marketing-agencies,Arizona,893,13,5668,385386000
+marketing-agencies,Michigan,887,14,10646,831580000
+marketing-agencies,Minnesota,803,15,9398,783478000
+marketing-agencies,Washington,750,16,9160,884282000
+marketing-agencies,Massachusetts,743,17,11165,1208217000
+marketing-agencies,District of Columbia,634,18,8435,1400998000
+marketing-agencies,Maryland,603,19,5596,579634000
+marketing-agencies,Missouri,601,20,10906,928244000
+marketing-agencies,Utah,571,21,4519,340220000
+marketing-agencies,Oregon,544,22,6535,587218000
+marketing-agencies,Tennessee,542,23,5165,375964000
+marketing-agencies,South Carolina,513,24,3137,206836000
+marketing-agencies,Indiana,502,25,3996,256993000
+marketing-agencies,Wisconsin,497,26,6562,483010000
+marketing-agencies,Nevada,447,27,3292,220151000
+marketing-agencies,Connecticut,426,28,5292,437022000
+marketing-agencies,Louisiana,423,29,3396,226596000
+marketing-agencies,Kentucky,347,30,3174,188879000
+marketing-agencies,Oklahoma,343,31,3341,195932000
+marketing-agencies,Alabama,306,32,2755,159146000
+marketing-agencies,Kansas,264,33,3171,175379000
+marketing-agencies,Iowa,253,34,2536,170388000
+marketing-agencies,Nebraska,203,35,1749,116825000
+marketing-agencies,Arkansas,200,36,2024,147212000
+marketing-agencies,Idaho,194,37,1429,80194000
+marketing-agencies,Delaware,169,38,1159,123393000
+marketing-agencies,Mississippi,157,39,1210,59833000
+marketing-agencies,Maine,143,40,902,61843000
+marketing-agencies,New Mexico,129,41,687,29332000
+marketing-agencies,New Hampshire,122,42,1582,61066000
+marketing-agencies,Montana,118,43,615,41946000
+marketing-agencies,Rhode Island,111,44,1525,65022000
+marketing-agencies,Hawaii,106,45,717,34728000
+marketing-agencies,Wyoming,95,46,471,30770000
+marketing-agencies,South Dakota,84,47,564,33287000
+marketing-agencies,North Dakota,77,48,659,41919000
+marketing-agencies,West Virginia,77,49,593,26136000
+marketing-agencies,Vermont,68,50,395,26311000
+marketing-agencies,Alaska,64,51,410,25055000
+law-firms,California,22821,1,148867,20623698000
+law-firms,Florida,17261,2,97156,11409928000
+law-firms,Texas,13833,3,87363,11047100000
+law-firms,New York,11745,4,114660,18772520000
+law-firms,Illinois,6918,5,52434,7736777000
+law-firms,Georgia,5944,6,35560,3971692000
+law-firms,Pennsylvania,5131,7,42329,5361996000
+law-firms,New Jersey,4788,8,32680,3801822000
+law-firms,Ohio,4067,9,27760,2583687000
+law-firms,North Carolina,4025,10,25471,2495855000
+law-firms,Massachusetts,3920,11,28550,4281790000
+law-firms,Michigan,3750,12,23789,2582834000
+law-firms,Washington,3489,13,21105,2741139000
+law-firms,Colorado,3431,14,18443,2372265000
+law-firms,Virginia,3425,15,23495,2640611000
+law-firms,Louisiana,3217,16,17533,1590128000
+law-firms,Arizona,3088,17,17342,1852856000
+law-firms,Missouri,2759,18,18479,2006488000
+law-firms,Maryland,2615,19,16849,1774445000
+law-firms,South Carolina,2590,20,16264,1451590000
+law-firms,Tennessee,2260,21,13523,1302225000
+law-firms,Indiana,2237,22,12541,1084274000
+law-firms,Oklahoma,2234,23,9881,878081000
+law-firms,Alabama,2217,24,12095,1195979000
+law-firms,Oregon,2211,25,11920,1218054000
+law-firms,Minnesota,2052,26,15663,1957300000
+law-firms,Connecticut,1953,27,11903,1262650000
+law-firms,Kentucky,1812,28,9603,671528000
+law-firms,Wisconsin,1716,29,11967,1329871000
+law-firms,Nevada,1710,30,9575,930290000
+law-firms,Utah,1448,31,8074,889057000
+law-firms,Arkansas,1291,32,4929,332454000
+law-firms,Mississippi,1283,33,6187,440628000
+law-firms,Iowa,1212,34,6216,501375000
+law-firms,District of Columbia,1197,35,31104,7283214000
+law-firms,Kansas,1139,36,5586,414922000
+law-firms,New Mexico,983,37,4697,430753000
+law-firms,Idaho,871,38,3468,271341000
+law-firms,Nebraska,817,39,4983,466707000
+law-firms,West Virginia,775,40,4733,354489000
+law-firms,Rhode Island,681,41,3807,346873000
+law-firms,Montana,678,42,2673,210598000
+law-firms,Maine,587,43,3670,330535000
+law-firms,Hawaii,563,44,2665,265693000
+law-firms,New Hampshire,530,45,3319,363380000
+law-firms,Wyoming,472,46,1295,94782000
+law-firms,Delaware,430,47,4914,834310000
+law-firms,South Dakota,365,48,1554,104281000
+law-firms,Vermont,344,49,1712,157811000
+law-firms,North Dakota,305,50,1541,129341000
+law-firms,Alaska,301,51,1404,148234000
+accounting-firms,California,18655,1,168466,12915173000
+accounting-firms,Florida,12917,2,79969,5698500000
+accounting-firms,Texas,11224,3,110048,8578085000
+accounting-firms,New York,9056,4,109178,11078452000
+accounting-firms,Illinois,5146,5,65514,6275837000
+accounting-firms,Georgia,4638,6,47433,3745568000
+accounting-firms,Pennsylvania,4111,7,49283,3947646000
+accounting-firms,North Carolina,3809,8,61733,2865365000
+accounting-firms,New Jersey,3754,9,42575,4432731000
+accounting-firms,Ohio,3750,10,38209,2747412000
+accounting-firms,Colorado,3735,11,27772,1949167000
+accounting-firms,Michigan,3472,12,33006,2310356000
+accounting-firms,Washington,3377,13,24122,1879595000
+accounting-firms,Arizona,3223,14,22853,1485209000
+accounting-firms,Virginia,3037,15,35883,3305462000
+accounting-firms,Massachusetts,2555,16,29090,3024298000
+accounting-firms,Maryland,2476,17,19677,1586098000
+accounting-firms,Missouri,2333,18,25774,1588290000
+accounting-firms,Oregon,2134,19,12455,826579000
+accounting-firms,Minnesota,2094,20,27461,1645739000
+accounting-firms,Indiana,2092,21,20998,1385605000
+accounting-firms,Tennessee,1933,22,20738,1773000000
+accounting-firms,Louisiana,1926,23,15165,1048698000
+accounting-firms,Wisconsin,1855,24,17629,1087020000
+accounting-firms,Oklahoma,1850,25,16652,1133315000
+accounting-firms,South Carolina,1811,26,12050,809990000
+accounting-firms,Utah,1736,27,17609,1036976000
+accounting-firms,Alabama,1590,28,12527,700546000
+accounting-firms,Nevada,1416,29,8067,475014000
+accounting-firms,Kentucky,1393,30,13031,725595000
+accounting-firms,Connecticut,1308,31,12045,1177460000
+accounting-firms,Kansas,1192,32,10910,595368000
+accounting-firms,Arkansas,1150,33,6607,312684000
+accounting-firms,Iowa,1135,34,10562,635216000
+accounting-firms,Idaho,1101,35,5375,285607000
+accounting-firms,Mississippi,801,36,7393,404454000
+accounting-firms,Nebraska,782,37,6912,413818000
+accounting-firms,New Mexico,762,38,5256,265548000
+accounting-firms,Montana,736,39,4084,189471000
+accounting-firms,Hawaii,691,40,4020,241224000
+accounting-firms,Maine,567,41,10984,953050000
+accounting-firms,New Hampshire,542,42,4534,309278000
+accounting-firms,West Virginia,484,43,3128,132950000
+accounting-firms,Rhode Island,444,44,3183,254602000
+accounting-firms,Alaska,389,45,1814,112018000
+accounting-firms,Delaware,386,46,2986,203897000
+accounting-firms,Wyoming,369,47,1577,103072000
+accounting-firms,South Dakota,343,48,2396,129113000
+accounting-firms,North Dakota,303,49,2221,150693000
+accounting-firms,Vermont,284,50,1631,96454000
+accounting-firms,District of Columbia,202,51,5410,756722000
+dental-practices,California,22757,1,142822,8048039000
+dental-practices,Texas,11902,2,86333,4943086000
+dental-practices,Florida,9039,3,61901,4000043000
+dental-practices,New York,8001,4,54214,3336406000
+dental-practices,Illinois,5781,5,37948,2264772000
+dental-practices,Pennsylvania,4649,6,35838,2151239000
+dental-practices,New Jersey,4511,7,33254,1944665000
+dental-practices,Ohio,3814,8,33003,1933922000
+dental-practices,Michigan,3795,9,33989,2047907000
+dental-practices,Georgia,3663,10,30262,1869705000
+dental-practices,Washington,3633,11,32617,2012460000
+dental-practices,North Carolina,3551,12,32715,2236240000
+dental-practices,Virginia,3402,13,28005,1858974000
+dental-practices,Massachusetts,3188,14,26211,1802810000
+dental-practices,Colorado,2957,15,21001,1263089000
+dental-practices,Arizona,2922,16,21222,1229486000
+dental-practices,Maryland,2561,17,19303,1263396000
+dental-practices,Indiana,2246,18,20655,1231362000
+dental-practices,Tennessee,2225,19,18558,1144451000
+dental-practices,Oregon,1913,20,15999,1042410000
+dental-practices,Wisconsin,1902,21,18368,1329470000
+dental-practices,Missouri,1899,22,16112,1057442000
+dental-practices,Minnesota,1884,23,17650,1285720000
+dental-practices,Utah,1789,24,15047,637733000
+dental-practices,South Carolina,1758,25,14601,934698000
+dental-practices,Connecticut,1625,26,12507,783854000
+dental-practices,Louisiana,1575,27,12232,642846000
+dental-practices,Kentucky,1440,28,10549,582446000
+dental-practices,Alabama,1402,29,12589,708434000
+dental-practices,Oklahoma,1373,30,10649,660946000
+dental-practices,Nevada,1320,31,10074,560662000
+dental-practices,Iowa,1030,32,8728,566703000
+dental-practices,Kansas,1021,33,9130,516711000
+dental-practices,Idaho,943,34,7968,381676000
+dental-practices,Arkansas,917,35,7690,440462000
+dental-practices,Mississippi,915,36,6596,352421000
+dental-practices,Nebraska,744,37,5665,338256000
+dental-practices,New Mexico,684,38,5632,313461000
+dental-practices,New Hampshire,586,39,5209,398262000
+dental-practices,Hawaii,577,40,3818,224493000
+dental-practices,Montana,529,41,3842,228835000
+dental-practices,West Virginia,473,42,4036,215432000
+dental-practices,Maine,457,43,4205,295188000
+dental-practices,Rhode Island,327,44,2886,183181000
+dental-practices,South Dakota,317,45,3122,215768000
+dental-practices,Alaska,315,46,2417,163854000
+dental-practices,District of Columbia,310,47,1952,145932000
+dental-practices,Delaware,294,48,3121,230952000
+dental-practices,North Dakota,282,49,3098,225976000
+dental-practices,Vermont,235,50,1918,136447000
+dental-practices,Wyoming,232,51,1628,88879000
+real-estate-agencies,California,22558,1,53008,4999670000
+real-estate-agencies,Florida,21144,2,44695,3259006000
+real-estate-agencies,Texas,11405,3,33989,3044940000
+real-estate-agencies,Colorado,7456,4,13021,978996000
+real-estate-agencies,North Carolina,6880,5,14681,1030558000
+real-estate-agencies,New York,6584,6,19852,1891445000
+real-estate-agencies,Arizona,6269,7,12144,1062171000
+real-estate-agencies,Georgia,6227,8,13754,1120700000
+real-estate-agencies,Washington,5670,9,14425,1189728000
+real-estate-agencies,Illinois,4933,10,13253,1091772000
+real-estate-agencies,Virginia,4254,11,11464,849357000
+real-estate-agencies,South Carolina,3337,12,7097,440366000
+real-estate-agencies,Ohio,3312,13,8422,566841000
+real-estate-agencies,Minnesota,3247,14,6341,530393000
+real-estate-agencies,Utah,3171,15,4891,305846000
+real-estate-agencies,Pennsylvania,3092,16,9697,711614000
+real-estate-agencies,Oregon,2900,17,5711,373126000
+real-estate-agencies,Indiana,2682,18,6201,380043000
+real-estate-agencies,Missouri,2550,19,6531,431831000
+real-estate-agencies,Michigan,2548,20,6711,447826000
+real-estate-agencies,Massachusetts,2359,21,7461,715343000
+real-estate-agencies,New Jersey,2315,22,10441,1018119000
+real-estate-agencies,Nevada,2295,23,7479,504161000
+real-estate-agencies,Maryland,2264,24,5720,515106000
+real-estate-agencies,Wisconsin,2071,25,5215,346693000
+real-estate-agencies,Idaho,1841,26,2723,155729000
+real-estate-agencies,Tennessee,1637,27,6348,442313000
+real-estate-agencies,Oklahoma,1614,28,3177,165996000
+real-estate-agencies,Alabama,1582,29,4403,276985000
+real-estate-agencies,Kentucky,1450,30,2751,147238000
+real-estate-agencies,Kansas,1318,31,2519,132461000
+real-estate-agencies,Iowa,1195,32,2293,133605000
+real-estate-agencies,Louisiana,1156,33,2269,126126000
+real-estate-agencies,Arkansas,1145,34,2346,132952000
+real-estate-agencies,Nebraska,1131,35,2499,145507000
+real-estate-agencies,Montana,1100,36,,87783000
+real-estate-agencies,Maine,814,37,1178,77125000
+real-estate-agencies,Connecticut,755,38,3578,292302000
+real-estate-agencies,New Mexico,746,39,1501,85877000
+real-estate-agencies,Hawaii,594,40,3165,241340000
+real-estate-agencies,Mississippi,577,41,1229,60033000
+real-estate-agencies,South Dakota,456,42,800,46604000
+real-estate-agencies,Wyoming,447,43,891,67150000
+real-estate-agencies,Rhode Island,418,44,874,57798000
+real-estate-agencies,Delaware,417,45,1150,75107000
+real-estate-agencies,North Dakota,373,46,611,34304000
+real-estate-agencies,Alaska,371,47,852,48590000
+real-estate-agencies,New Hampshire,363,48,864,65776000
+real-estate-agencies,District of Columbia,352,49,2483,296654000
+real-estate-agencies,West Virginia,276,50,653,29827000
+real-estate-agencies,Vermont,243,51,456,30778000
+insurance-agencies,California,13919,1,83259,8478543000
+insurance-agencies,Texas,12210,2,78885,6611701000
+insurance-agencies,Florida,10837,3,69499,5697246000
+insurance-agencies,New York,6336,4,51373,6022519000
+insurance-agencies,Illinois,5679,5,40486,4305705000
+insurance-agencies,Pennsylvania,4773,6,34382,3363930000
+insurance-agencies,Georgia,4637,7,27468,2660959000
+insurance-agencies,Ohio,4382,8,27942,2323294000
+insurance-agencies,North Carolina,3914,9,26949,2507021000
+insurance-agencies,Michigan,3680,10,26370,2124289000
+insurance-agencies,Missouri,3330,11,19059,1587584000
+insurance-agencies,Minnesota,3131,12,16007,1514801000
+insurance-agencies,Colorado,3124,13,15146,1296351000
+insurance-agencies,Indiana,2965,14,17060,1342559000
+insurance-agencies,Arizona,2845,15,14065,1143771000
+insurance-agencies,Virginia,2728,16,14244,1159534000
+insurance-agencies,Washington,2598,17,16046,1452246000
+insurance-agencies,New Jersey,2588,18,22795,2633882000
+insurance-agencies,Wisconsin,2587,19,12120,963765000
+insurance-agencies,Tennessee,2565,20,14337,1202020000
+insurance-agencies,Oklahoma,2191,21,8548,548305000
+insurance-agencies,Louisiana,2136,22,11634,955159000
+insurance-agencies,Massachusetts,2065,23,19519,2210922000
+insurance-agencies,South Carolina,2042,24,9737,730438000
+insurance-agencies,Iowa,1993,25,9839,762559000
+insurance-agencies,Kansas,1947,26,14227,1142662000
+insurance-agencies,Maryland,1855,27,12881,1135063000
+insurance-agencies,Kentucky,1771,28,9060,681516000
+insurance-agencies,Alabama,1737,29,8170,636277000
+insurance-agencies,Utah,1659,30,9491,817372000
+insurance-agencies,Oregon,1644,31,7992,618916000
+insurance-agencies,Nebraska,1545,32,6715,510623000
+insurance-agencies,Arkansas,1517,33,6129,383216000
+insurance-agencies,Nevada,1247,34,5318,400869000
+insurance-agencies,Mississippi,1233,35,5336,384689000
+insurance-agencies,Connecticut,1229,36,9820,1073295000
+insurance-agencies,Idaho,943,37,3630,231149000
+insurance-agencies,New Mexico,755,38,3224,196249000
+insurance-agencies,South Dakota,745,39,3229,233129000
+insurance-agencies,North Dakota,647,40,2389,175324000
+insurance-agencies,Montana,645,41,2740,197873000
+insurance-agencies,West Virginia,637,42,2898,174296000
+insurance-agencies,Maine,459,43,3470,302367000
+insurance-agencies,New Hampshire,422,44,2911,302531000
+insurance-agencies,Hawaii,385,45,1984,156669000
+insurance-agencies,Wyoming,343,46,1238,83829000
+insurance-agencies,Rhode Island,320,47,2406,231531000
+insurance-agencies,Delaware,315,48,2412,234747000
+insurance-agencies,Vermont,208,49,1601,140721000
+insurance-agencies,Alaska,177,50,1243,103681000
+insurance-agencies,District of Columbia,88,51,1278,202849000
+construction-companies,California,29852,1,207617,18343788000
+construction-companies,New York,19308,2,96794,7807604000
+construction-companies,Florida,19051,3,111597,9182946000
+construction-companies,Texas,16334,4,133451,12592543000
+construction-companies,Washington,9869,5,56891,4689643000
+construction-companies,Illinois,9565,6,46149,3935294000
+construction-companies,Pennsylvania,9325,7,59654,4456704000
+construction-companies,North Carolina,9306,8,52834,4208652000
+construction-companies,New Jersey,7648,9,38182,3149435000
+construction-companies,Georgia,7075,10,44529,4074440000
+construction-companies,Michigan,7031,11,43752,3383848000
+construction-companies,Massachusetts,6986,12,37915,3579512000
+construction-companies,Virginia,6882,13,44549,3604232000
+construction-companies,Ohio,5950,14,45179,3537352000
+construction-companies,Oregon,5934,15,29578,2145145000
+construction-companies,Colorado,5603,16,39792,3777807000
+construction-companies,Minnesota,5209,17,28332,2393905000
+construction-companies,Maryland,4872,18,34708,2985651000
+construction-companies,Indiana,4531,19,34035,2523436000
+construction-companies,Arizona,4323,20,41273,3505436000
+construction-companies,Missouri,4213,21,33153,2817624000
+construction-companies,Wisconsin,3923,22,30047,2420973000
+construction-companies,Tennessee,3751,23,29211,2334067000
+construction-companies,Utah,3696,24,24279,1764028000
+construction-companies,South Carolina,3329,25,20646,1670612000
+construction-companies,Idaho,2846,26,13715,864674000
+construction-companies,Iowa,2536,27,15531,1108322000
+construction-companies,Alabama,2492,28,24137,1942596000
+construction-companies,Louisiana,2397,29,17687,1166096000
+construction-companies,Montana,2283,30,9074,622441000
+construction-companies,Kentucky,2233,31,15863,1125736000
+construction-companies,Oklahoma,2119,32,13130,927911000
+construction-companies,Connecticut,2100,33,12019,1058414000
+construction-companies,Kansas,2051,34,13248,871721000
+construction-companies,Nebraska,1858,35,10749,730844000
+construction-companies,Maine,1847,36,7385,461430000
+construction-companies,Arkansas,1720,37,10819,724198000
+construction-companies,Nevada,1662,38,16755,1444558000
+construction-companies,New Mexico,1396,39,9661,612236000
+construction-companies,New Hampshire,1319,40,6834,548356000
+construction-companies,South Dakota,1220,41,6059,380591000
+construction-companies,West Virginia,1160,42,6028,303688000
+construction-companies,Rhode Island,1155,43,5991,478052000
+construction-companies,Mississippi,1074,44,8066,576738000
+construction-companies,Hawaii,997,45,8914,833004000
+construction-companies,Vermont,949,46,4402,291963000
+construction-companies,Wyoming,938,47,4481,300763000
+construction-companies,Alaska,918,48,5832,542038000
+construction-companies,Delaware,770,49,4443,351672000
+construction-companies,North Dakota,750,50,4295,313185000
+construction-companies,District of Columbia,274,51,2174,194004000
+hvac-plumbing-contractors,California,11686,1,126947,10859374000
+hvac-plumbing-contractors,Florida,9353,2,94859,5766710000
+hvac-plumbing-contractors,Texas,8966,3,105623,7377017000
+hvac-plumbing-contractors,New York,7061,4,65999,5224688000
+hvac-plumbing-contractors,Pennsylvania,4154,5,44585,3364780000
+hvac-plumbing-contractors,Illinois,4070,6,41112,3491463000
+hvac-plumbing-contractors,North Carolina,3973,7,45037,2788002000
+hvac-plumbing-contractors,New Jersey,3454,8,30302,2387839000
+hvac-plumbing-contractors,Georgia,3101,9,33250,2279675000
+hvac-plumbing-contractors,Massachusetts,3069,10,29674,2713661000
+hvac-plumbing-contractors,Ohio,2970,11,37781,2685594000
+hvac-plumbing-contractors,Virginia,2765,12,34582,2379111000
+hvac-plumbing-contractors,Michigan,2661,13,30546,2318259000
+hvac-plumbing-contractors,Colorado,2620,14,24178,1738728000
+hvac-plumbing-contractors,Arizona,2567,15,32158,2281316000
+hvac-plumbing-contractors,Washington,2242,16,33116,2964140000
+hvac-plumbing-contractors,Indiana,2008,17,26484,2024104000
+hvac-plumbing-contractors,Maryland,1986,18,29326,2260094000
+hvac-plumbing-contractors,Wisconsin,1944,19,23507,1849380000
+hvac-plumbing-contractors,Missouri,1915,20,23628,1780340000
+hvac-plumbing-contractors,Tennessee,1899,21,25248,1667081000
+hvac-plumbing-contractors,Minnesota,1816,22,21283,1796193000
+hvac-plumbing-contractors,South Carolina,1685,23,18417,1173905000
+hvac-plumbing-contractors,Alabama,1647,24,17066,1061270000
+hvac-plumbing-contractors,Louisiana,1623,25,14032,877165000
+hvac-plumbing-contractors,Oklahoma,1592,26,13349,749597000
+hvac-plumbing-contractors,Utah,1443,27,15616,1061237000
+hvac-plumbing-contractors,Kentucky,1379,28,15837,1019332000
+hvac-plumbing-contractors,Oregon,1337,29,15676,1336889000
+hvac-plumbing-contractors,Connecticut,1318,30,10964,902470000
+hvac-plumbing-contractors,Arkansas,1145,31,10835,655116000
+hvac-plumbing-contractors,Iowa,1108,32,14647,1050811000
+hvac-plumbing-contractors,Kansas,1028,33,11412,799069000
+hvac-plumbing-contractors,Nevada,909,34,17166,1341743000
+hvac-plumbing-contractors,Idaho,904,35,9912,625447000
+hvac-plumbing-contractors,Nebraska,837,36,9947,706575000
+hvac-plumbing-contractors,Maine,781,37,4783,316882000
+hvac-plumbing-contractors,New Hampshire,776,38,5608,437045000
+hvac-plumbing-contractors,Montana,712,39,4448,297247000
+hvac-plumbing-contractors,Mississippi,709,40,6851,417667000
+hvac-plumbing-contractors,New Mexico,691,41,6612,396093000
+hvac-plumbing-contractors,Rhode Island,494,42,4410,335763000
+hvac-plumbing-contractors,West Virginia,406,43,2981,165427000
+hvac-plumbing-contractors,Hawaii,403,44,3944,335032000
+hvac-plumbing-contractors,South Dakota,401,45,4356,269874000
+hvac-plumbing-contractors,Delaware,344,46,4719,338069000
+hvac-plumbing-contractors,North Dakota,336,47,3368,239479000
+hvac-plumbing-contractors,Wyoming,315,48,2479,151885000
+hvac-plumbing-contractors,Vermont,303,49,2390,162121000
+hvac-plumbing-contractors,Alaska,264,50,1939,165695000
+hvac-plumbing-contractors,District of Columbia,37,51,1772,132953000
+restaurants,California,79696,1,1404974,40307828000
+restaurants,Texas,53191,2,1126293,25520601000
+restaurants,New York,44870,3,598860,18181052000
+restaurants,Florida,39216,4,798469,20134952000
+restaurants,Illinois,23334,5,413060,10324153000
+restaurants,Pennsylvania,22254,6,364990,7660177000
+restaurants,Ohio,20682,7,424932,8649388000
+restaurants,Georgia,20048,8,395597,8457747000
+restaurants,North Carolina,19414,9,395007,8414013000
+restaurants,New Jersey,18701,10,249796,6671728000
+restaurants,Michigan,16941,11,310151,6674898000
+restaurants,Virginia,15936,12,299357,6952166000
+restaurants,Washington,15030,13,235593,7109911000
+restaurants,Massachusetts,14609,14,241714,7280425000
+restaurants,Tennessee,12351,15,265577,6003902000
+restaurants,Arizona,11974,16,262256,6580694000
+restaurants,Colorado,11631,17,231199,6470795000
+restaurants,Indiana,11578,18,243226,4824588000
+restaurants,Missouri,10657,19,216564,4766842000
+restaurants,Maryland,10438,20,197368,4901162000
+restaurants,Wisconsin,10230,21,178473,3621179000
+restaurants,South Carolina,9731,22,200044,4235702000
+restaurants,Oregon,9348,23,144208,3806856000
+restaurants,Minnesota,8869,24,178708,4115931000
+restaurants,Alabama,8126,25,162959,3268884000
+restaurants,Louisiana,8018,26,154817,3219639000
+restaurants,Connecticut,7560,27,110865,2945687000
+restaurants,Kentucky,6987,28,153390,3073128000
+restaurants,Oklahoma,6882,29,138237,2693557000
+restaurants,Nevada,6211,30,131732,3515251000
+restaurants,Utah,5499,31,113253,2353979000
+restaurants,Iowa,5367,32,94357,1815678000
+restaurants,Kansas,5128,33,101514,2014270000
+restaurants,Arkansas,5075,34,95941,1927091000
+restaurants,Mississippi,4982,35,99708,1778426000
+restaurants,New Mexico,3500,36,72742,1651170000
+restaurants,Nebraska,3488,37,65230,1330419000
+restaurants,Idaho,3328,38,62035,1291959000
+restaurants,Hawaii,3205,39,57327,1700031000
+restaurants,Maine,3025,40,40735,1234264000
+restaurants,New Hampshire,2989,41,50825,1372529000
+restaurants,West Virginia,2809,42,52033,972592000
+restaurants,Rhode Island,2561,43,40595,1095523000
+restaurants,Montana,2297,44,39569,895331000
+restaurants,District of Columbia,2110,45,46896,1611552000
+restaurants,Delaware,1980,46,38651,964841000
+restaurants,South Dakota,1577,47,28093,587677000
+restaurants,Alaska,1383,48,18427,550034000
+restaurants,North Dakota,1343,49,23792,529734000
+restaurants,Vermont,1206,50,17288,454239000
+restaurants,Wyoming,1111,51,19157,434643000
+manufacturing-companies,California,35300,1,1157201,106188349000
+manufacturing-companies,Texas,21034,2,869062,67340943000
+manufacturing-companies,Florida,14341,3,358707,24420571000
+manufacturing-companies,New York,13837,4,411439,30064904000
+manufacturing-companies,Ohio,13307,5,689133,47849592000
+manufacturing-companies,Pennsylvania,13231,6,564394,39604696000
+manufacturing-companies,Illinois,12465,7,544438,40065166000
+manufacturing-companies,Michigan,12192,8,604978,41739477000
+manufacturing-companies,North Carolina,8664,9,472162,30096455000
+manufacturing-companies,Wisconsin,8479,10,479846,32835601000
+manufacturing-companies,Indiana,7938,11,524995,35246268000
+manufacturing-companies,Georgia,7874,12,409333,25677276000
+manufacturing-companies,New Jersey,7018,13,225095,17330275000
+manufacturing-companies,Minnesota,6718,14,325317,23912795000
+manufacturing-companies,Washington,6586,15,264782,23654282000
+manufacturing-companies,Massachusetts,5920,16,234190,20962737000
+manufacturing-companies,Tennessee,5787,17,357878,23640047000
+manufacturing-companies,Missouri,5460,18,283563,18899755000
+manufacturing-companies,Oregon,5231,19,175491,13685732000
+manufacturing-companies,Colorado,5031,20,133767,10298638000
+manufacturing-companies,Virginia,5019,21,246819,16703145000
+manufacturing-companies,Arizona,4406,22,173706,15104998000
+manufacturing-companies,Alabama,4145,23,272338,18306220000
+manufacturing-companies,South Carolina,4006,24,257989,17720433000
+manufacturing-companies,Connecticut,3735,25,158521,14131940000
+manufacturing-companies,Kentucky,3669,26,257247,16783605000
+manufacturing-companies,Utah,3665,27,145645,10221720000
+manufacturing-companies,Iowa,3418,28,224293,15604079000
+manufacturing-companies,Oklahoma,3247,29,129479,8639600000
+manufacturing-companies,Louisiana,3044,30,120360,10312842000
+manufacturing-companies,Maryland,2838,31,109929,9093094000
+manufacturing-companies,Kansas,2677,32,170492,12183339000
+manufacturing-companies,Arkansas,2526,33,164240,9780412000
+manufacturing-companies,Idaho,2114,34,68249,4746452000
+manufacturing-companies,Nevada,2043,35,64363,5008360000
+manufacturing-companies,Mississippi,1981,36,146261,8786635000
+manufacturing-companies,Nebraska,1761,37,104418,6643114000
+manufacturing-companies,New Hampshire,1741,38,68626,5243614000
+manufacturing-companies,Maine,1700,39,57987,3746400000
+manufacturing-companies,Montana,1393,40,21825,1408089000
+manufacturing-companies,New Mexico,1266,41,28044,1795230000
+manufacturing-companies,Rhode Island,1188,42,40210,2823954000
+manufacturing-companies,West Virginia,1060,43,48350,3143772000
+manufacturing-companies,South Dakota,1034,44,47333,2889182000
+manufacturing-companies,Vermont,1005,45,29246,1891314000
+manufacturing-companies,Hawaii,723,46,10293,539596000
+manufacturing-companies,North Dakota,695,47,29264,2028274000
+manufacturing-companies,Delaware,660,48,31080,2345493000
+manufacturing-companies,Wyoming,600,49,10171,890695000
+manufacturing-companies,Alaska,576,50,11521,837470000
+manufacturing-companies,District of Columbia,104,51,1164,96321000
+management-consulting-firms,California,17851,1,88119,10419664000
+management-consulting-firms,Florida,11375,2,58879,5733613000
+management-consulting-firms,Texas,9705,3,80499,9705954000
+management-consulting-firms,New York,6148,4,65663,10307713000
+management-consulting-firms,North Carolina,3887,5,24772,2951199000
+management-consulting-firms,Virginia,3791,6,77188,9180689000
+management-consulting-firms,Illinois,3736,7,54063,9083507000
+management-consulting-firms,Colorado,3325,8,18633,2298373000
+management-consulting-firms,Georgia,3281,9,29014,4062602000
+management-consulting-firms,New Jersey,2834,10,21592,2681991000
+management-consulting-firms,Pennsylvania,2606,11,26406,3496447000
+management-consulting-firms,Arizona,2493,12,20643,1518969000
+management-consulting-firms,Maryland,2466,13,34791,3457576000
+management-consulting-firms,Washington,2300,14,23151,3241172000
+management-consulting-firms,Utah,2118,15,8394,694389000
+management-consulting-firms,Ohio,2064,16,17887,1923637000
+management-consulting-firms,Massachusetts,1893,17,30405,4801068000
+management-consulting-firms,Michigan,1750,18,20612,2327933000
+management-consulting-firms,Minnesota,1526,19,10788,1361148000
+management-consulting-firms,Nevada,1478,20,5931,541736000
+management-consulting-firms,Indiana,1286,21,10296,1048873000
+management-consulting-firms,Oklahoma,1094,22,7733,569936000
+management-consulting-firms,Tennessee,1063,23,14403,1838298000
+management-consulting-firms,Missouri,1027,24,9223,1200658000
+management-consulting-firms,Oregon,1013,25,5635,542588000
+management-consulting-firms,Wisconsin,963,26,6499,589939000
+management-consulting-firms,South Carolina,942,27,10808,932561000
+management-consulting-firms,District of Columbia,925,28,23247,3480786000
+management-consulting-firms,Louisiana,853,29,4893,383787000
+management-consulting-firms,Connecticut,760,30,5673,814979000
+management-consulting-firms,Alabama,675,31,6169,547621000
+management-consulting-firms,Kansas,666,32,5866,459635000
+management-consulting-firms,Kentucky,652,33,4956,324449000
+management-consulting-firms,Arkansas,559,34,3362,391604000
+management-consulting-firms,Iowa,525,35,3626,383285000
+management-consulting-firms,Idaho,516,36,3866,286884000
+management-consulting-firms,Wyoming,488,37,891,78859000
+management-consulting-firms,Delaware,457,38,2127,255424000
+management-consulting-firms,Nebraska,437,39,3782,235636000
+management-consulting-firms,Montana,417,40,1401,102582000
+management-consulting-firms,New Mexico,310,41,2323,263114000
+management-consulting-firms,Maine,307,42,1483,170744000
+management-consulting-firms,New Hampshire,303,43,2240,254350000
+management-consulting-firms,Rhode Island,281,44,1266,107324000
+management-consulting-firms,Mississippi,258,45,2525,154288000
+management-consulting-firms,Hawaii,244,46,1922,173807000
+management-consulting-firms,South Dakota,220,47,856,60107000
+management-consulting-firms,Vermont,167,48,535,46247000
+management-consulting-firms,Alaska,165,49,1770,166854000
+management-consulting-firms,West Virginia,159,50,,124666000
+management-consulting-firms,North Dakota,135,51,812,79654000
+staffing-agencies,California,6292,1,1053799,78018991000
+staffing-agencies,Texas,5105,2,615645,34611770000
+staffing-agencies,Florida,4011,3,1918405,118848681000
+staffing-agencies,Michigan,3355,4,219395,8969123000
+staffing-agencies,New York,2757,5,473168,54926492000
+staffing-agencies,Illinois,2340,6,256445,12116847000
+staffing-agencies,Georgia,2297,7,243263,12630117000
+staffing-agencies,Pennsylvania,2019,8,132494,6961909000
+staffing-agencies,Ohio,1975,9,231633,10567599000
+staffing-agencies,North Carolina,1920,10,136157,6832915000
+staffing-agencies,New Jersey,1821,11,232145,12043740000
+staffing-agencies,Massachusetts,1338,12,108770,6563004000
+staffing-agencies,Wisconsin,1309,13,92180,4353840000
+staffing-agencies,Tennessee,1266,14,149084,5955788000
+staffing-agencies,Virginia,1258,15,85857,5402448000
+staffing-agencies,Arizona,1201,16,142804,7019823000
+staffing-agencies,Colorado,1138,17,92123,6128272000
+staffing-agencies,Indiana,1106,18,126425,5217652000
+staffing-agencies,Washington,1018,19,57440,3285640000
+staffing-agencies,Minnesota,960,20,93402,5046503000
+staffing-agencies,Maryland,956,21,129978,7286247000
+staffing-agencies,South Carolina,871,22,202438,9146854000
+staffing-agencies,Missouri,809,23,63717,3621376000
+staffing-agencies,Alabama,730,24,97709,4244928000
+staffing-agencies,Oregon,692,25,55164,2609175000
+staffing-agencies,Connecticut,607,26,28787,1766796000
+staffing-agencies,Kentucky,604,27,45041,1676061000
+staffing-agencies,Louisiana,591,28,41210,1806888000
+staffing-agencies,Oklahoma,585,29,73265,4223251000
+staffing-agencies,Utah,533,30,125277,6587169000
+staffing-agencies,Kansas,501,31,51453,2390124000
+staffing-agencies,Nevada,490,32,47761,2456817000
+staffing-agencies,Iowa,427,33,55114,2472301000
+staffing-agencies,Arkansas,362,34,35216,1371615000
+staffing-agencies,Nebraska,327,35,64217,4201930000
+staffing-agencies,Mississippi,300,36,29182,919619000
+staffing-agencies,Delaware,243,37,13104,575747000
+staffing-agencies,New Hampshire,241,38,41423,2634000000
+staffing-agencies,Idaho,236,39,21128,934349000
+staffing-agencies,District of Columbia,192,40,8816,539506000
+staffing-agencies,New Mexico,174,41,9107,318070000
+staffing-agencies,Rhode Island,171,42,8130,504272000
+staffing-agencies,Hawaii,165,43,48144,
+staffing-agencies,Maine,165,44,7548,311667000
+staffing-agencies,West Virginia,156,45,11122,492607000
+staffing-agencies,Montana,128,46,5486,191896000
+staffing-agencies,Wyoming,104,47,,48393000
+staffing-agencies,North Dakota,92,48,4065,195610000
+staffing-agencies,South Dakota,91,49,2587,137069000
+staffing-agencies,Vermont,79,50,1588,67282000
+staffing-agencies,Alaska,65,51,1014,56508000
+architecture-firms,California,3723,1,28989,3131746000
+architecture-firms,New York,2099,2,17536,1749720000
+architecture-firms,Florida,1741,3,9849,897351000
+architecture-firms,Texas,1641,4,16005,1624000000
+architecture-firms,Illinois,944,5,8573,854844000
+architecture-firms,Colorado,844,6,5495,535880000
+architecture-firms,Massachusetts,728,7,7518,813057000
+architecture-firms,Washington,723,8,6439,627226000
+architecture-firms,Pennsylvania,662,9,6527,619252000
+architecture-firms,New Jersey,647,10,4106,390258000
+architecture-firms,North Carolina,625,11,4625,465691000
+architecture-firms,Georgia,591,12,5314,550551000
+architecture-firms,Arizona,544,13,3517,336469000
+architecture-firms,Ohio,536,14,5529,495439000
+architecture-firms,Virginia,465,15,4110,412281000
+architecture-firms,Michigan,436,16,3353,336839000
+architecture-firms,Oregon,366,17,3320,286925000
+architecture-firms,Maryland,345,18,2754,263024000
+architecture-firms,Missouri,333,19,4390,444867000
+architecture-firms,Minnesota,324,20,4173,406540000
+architecture-firms,South Carolina,305,21,1732,167452000
+architecture-firms,Louisiana,293,22,1850,140550000
+architecture-firms,Tennessee,277,23,2947,305836000
+architecture-firms,Utah,259,24,1889,160609000
+architecture-firms,Connecticut,239,25,1729,176019000
+architecture-firms,Wisconsin,232,26,2840,284815000
+architecture-firms,Indiana,225,27,2332,195863000
+architecture-firms,Alabama,206,28,1271,125698000
+architecture-firms,Oklahoma,197,29,1618,148444000
+architecture-firms,Idaho,173,30,897,66543000
+architecture-firms,District of Columbia,171,31,3229,367469000
+architecture-firms,Nevada,170,32,1132,110428000
+architecture-firms,Montana,155,33,1041,89765000
+architecture-firms,Hawaii,152,34,968,96740000
+architecture-firms,Arkansas,142,35,1352,119680000
+architecture-firms,Kansas,140,36,1413,126130000
+architecture-firms,Kentucky,136,37,1602,114617000
+architecture-firms,Maine,124,38,713,65419000
+architecture-firms,New Mexico,119,39,854,60956000
+architecture-firms,Iowa,118,40,1178,110681000
+architecture-firms,Nebraska,97,41,1306,126214000
+architecture-firms,Mississippi,92,42,557,50881000
+architecture-firms,Vermont,83,43,396,34958000
+architecture-firms,Rhode Island,77,44,460,38757000
+architecture-firms,New Hampshire,71,45,396,38395000
+architecture-firms,Wyoming,65,46,305,21978000
+architecture-firms,North Dakota,41,47,455,37450000
+architecture-firms,South Dakota,39,48,282,22401000
+architecture-firms,Alaska,36,49,220,25864000
+architecture-firms,Delaware,28,50,167,15799000
+architecture-firms,West Virginia,26,51,215,15309000
+trucking-companies,California,24075,1,159689,9624484000
+trucking-companies,Illinois,15020,2,86658,5508051000
+trucking-companies,Texas,14177,3,166894,10491191000
+trucking-companies,Florida,10129,4,68707,3860799000
+trucking-companies,Pennsylvania,6299,5,71958,4586708000
+trucking-companies,New York,5850,6,47971,2819201000
+trucking-companies,Georgia,5525,7,66826,3932882000
+trucking-companies,Ohio,5444,8,73687,4587897000
+trucking-companies,Michigan,5216,9,50402,3115179000
+trucking-companies,North Carolina,4948,10,51859,2966977000
+trucking-companies,New Jersey,4868,11,45566,2774108000
+trucking-companies,Indiana,4388,12,56379,3505863000
+trucking-companies,Washington,3959,13,29340,1868495000
+trucking-companies,Wisconsin,3913,14,52779,3428145000
+trucking-companies,Missouri,3531,15,42098,2450221000
+trucking-companies,Virginia,3387,16,37205,2135534000
+trucking-companies,Minnesota,3240,17,30519,1905574000
+trucking-companies,Iowa,3037,18,38734,2247315000
+trucking-companies,Tennessee,2768,19,65211,3879743000
+trucking-companies,Colorado,2441,20,20687,1330198000
+trucking-companies,Arizona,2308,21,35341,2092582000
+trucking-companies,South Carolina,2158,22,21938,1278171000
+trucking-companies,Alabama,2150,23,29145,1662504000
+trucking-companies,Massachusetts,2089,24,21803,1435372000
+trucking-companies,Oregon,2023,25,21246,1334872000
+trucking-companies,Maryland,2016,26,18708,1081466000
+trucking-companies,Nebraska,1941,27,17037,1038322000
+trucking-companies,Kentucky,1881,28,23726,1455465000
+trucking-companies,Utah,1816,29,27065,1664323000
+trucking-companies,Oklahoma,1806,30,22503,1460575000
+trucking-companies,Kansas,1785,31,21335,1338911000
+trucking-companies,Louisiana,1729,32,16465,1017096000
+trucking-companies,Arkansas,1640,33,38150,2387435000
+trucking-companies,Idaho,1477,34,10554,604450000
+trucking-companies,Mississippi,1446,35,21094,1158476000
+trucking-companies,Nevada,1163,36,11409,736679000
+trucking-companies,North Dakota,1065,37,9157,638446000
+trucking-companies,South Dakota,947,38,5325,290454000
+trucking-companies,Connecticut,867,39,10273,651122000
+trucking-companies,New Mexico,857,40,8288,560023000
+trucking-companies,Montana,836,41,4559,292520000
+trucking-companies,Maine,739,42,6036,363107000
+trucking-companies,West Virginia,711,43,6073,367451000
+trucking-companies,Wyoming,659,44,4213,296402000
+trucking-companies,Rhode Island,405,45,3054,209807000
+trucking-companies,New Hampshire,400,46,3939,246125000
+trucking-companies,Delaware,356,47,3012,217671000
+trucking-companies,Alaska,271,48,2987,239814000
+trucking-companies,Vermont,268,49,1914,125718000
+trucking-companies,Hawaii,234,50,3393,193849000
+trucking-companies,District of Columbia,28,51,317,16280000
+hotels,California,6020,1,207713,9926066000
+hotels,Texas,5643,2,116468,3965296000
+hotels,Florida,3546,3,162576,6967881000
+hotels,New York,2362,4,78021,4503396000
+hotels,Georgia,2157,5,43887,1489146000
+hotels,North Carolina,1928,6,42258,1279215000
+hotels,Virginia,1557,7,40203,1351445000
+hotels,Pennsylvania,1490,8,41437,1361660000
+hotels,Illinois,1474,9,40639,1847369000
+hotels,Tennessee,1454,10,33348,1215618000
+hotels,Ohio,1442,11,32078,909929000
+hotels,Michigan,1431,12,31085,974407000
+hotels,Colorado,1289,13,42753,1740514000
+hotels,Washington,1211,14,33200,1415124000
+hotels,Wisconsin,1168,15,27500,742726000
+hotels,South Carolina,1131,16,26778,857807000
+hotels,Arizona,1078,17,40772,1693345000
+hotels,Missouri,1073,18,22280,707830000
+hotels,New Jersey,1037,19,20661,834791000
+hotels,Indiana,1034,20,18181,491971000
+hotels,Oregon,984,21,21496,722634000
+hotels,Minnesota,925,22,23358,745581000
+hotels,Alabama,908,23,15851,442060000
+hotels,Louisiana,887,24,19622,682584000
+hotels,Oklahoma,840,25,12368,311078000
+hotels,Massachusetts,812,26,27225,1344605000
+hotels,Kentucky,771,27,14773,390496000
+hotels,Iowa,729,28,11944,303931000
+hotels,Arkansas,717,29,10278,250587000
+hotels,Maryland,679,30,18373,766535000
+hotels,Mississippi,665,31,9777,201881000
+hotels,Utah,636,32,20939,664440000
+hotels,New Mexico,627,33,14160,416796000
+hotels,Kansas,621,34,9498,245888000
+hotels,Montana,531,35,11200,353252000
+hotels,Maine,486,36,7977,362185000
+hotels,South Dakota,441,37,6710,179350000
+hotels,Nebraska,434,38,7264,188648000
+hotels,Nevada,424,39,18098,762719000
+hotels,Idaho,387,40,10438,300811000
+hotels,Wyoming,383,41,6931,274838000
+hotels,Connecticut,347,42,8219,296146000
+hotels,New Hampshire,314,43,6891,239059000
+hotels,West Virginia,298,44,6516,145859000
+hotels,Alaska,290,45,5457,262690000
+hotels,North Dakota,289,46,4896,120170000
+hotels,Hawaii,262,47,34423,2173136000
+hotels,Vermont,220,48,11110,344384000
+hotels,Delaware,185,49,3872,115645000
+hotels,Rhode Island,158,50,4427,229808000
+hotels,District of Columbia,120,51,11911,863026000
+medical-practices,California,31778,1,241978,27120964000
+medical-practices,Texas,22601,2,222179,23278465000
+medical-practices,Florida,21322,3,238618,23291445000
+medical-practices,New York,13386,4,154739,15024365000
+medical-practices,Pennsylvania,8257,5,143556,15776600000
+medical-practices,New Jersey,7756,6,82376,8921547000
+medical-practices,Georgia,7590,7,100968,10104748000
+medical-practices,Illinois,7503,8,109540,11849934000
+medical-practices,Michigan,6747,9,92800,8424925000
+medical-practices,Ohio,5838,10,109120,11966327000
+medical-practices,North Carolina,5476,11,99859,9746873000
+medical-practices,Arizona,5309,12,54888,5775328000
+medical-practices,Virginia,5133,13,74587,8182190000
+medical-practices,Tennessee,4471,14,83537,8386767000
+medical-practices,Maryland,4091,15,52191,5206265000
+medical-practices,Indiana,3607,16,71294,7564974000
+medical-practices,Colorado,3359,17,38332,4332202000
+medical-practices,Missouri,3248,18,42523,5104118000
+medical-practices,Wisconsin,3227,19,63790,6632526000
+medical-practices,Louisiana,3156,20,37209,3642214000
+medical-practices,Washington,3154,21,61358,6433302000
+medical-practices,Massachusetts,2882,22,58753,8211889000
+medical-practices,Kentucky,2833,23,40637,4323336000
+medical-practices,Connecticut,2826,24,51422,5385683000
+medical-practices,Alabama,2783,25,39416,3533311000
+medical-practices,Nevada,2688,26,22112,2358578000
+medical-practices,South Carolina,2639,27,39615,4008861000
+medical-practices,Oklahoma,2492,28,22696,2386506000
+medical-practices,Utah,2215,29,24129,2479215000
+medical-practices,Oregon,2175,30,31825,2990763000
+medical-practices,Arkansas,1991,31,23143,2351525000
+medical-practices,Minnesota,1653,32,39842,4675765000
+medical-practices,Kansas,1531,33,21203,2099065000
+medical-practices,Mississippi,1514,34,19028,1746296000
+medical-practices,Idaho,1196,35,12415,1191550000
+medical-practices,Iowa,1099,36,23460,2344337000
+medical-practices,West Virginia,948,37,14061,1681711000
+medical-practices,Hawaii,934,38,7943,1015312000
+medical-practices,New Mexico,900,39,10066,933116000
+medical-practices,Nebraska,855,40,14975,1691761000
+medical-practices,New Hampshire,714,41,10175,1231478000
+medical-practices,Delaware,624,42,9719,994526000
+medical-practices,Rhode Island,559,43,9130,1039366000
+medical-practices,Maine,534,44,10086,1107343000
+medical-practices,Montana,508,45,10105,1183740000
+medical-practices,Alaska,462,46,5221,597864000
+medical-practices,District of Columbia,382,47,4888,556347000
+medical-practices,South Dakota,341,48,7515,735199000
+medical-practices,Wyoming,337,49,2750,274217000
+medical-practices,Vermont,261,50,4885,402703000
+medical-practices,North Dakota,181,51,5278,558486000
+property-management-companies,California,13161,1,102211,7636476000
+property-management-companies,New York,7357,2,60402,4711667000
+property-management-companies,Florida,7081,3,68832,3591488000
+property-management-companies,Texas,6520,4,60692,4057815000
+property-management-companies,North Carolina,2439,5,18437,1049680000
+property-management-companies,Georgia,2310,6,21426,1481704000
+property-management-companies,Colorado,2169,7,17237,1140166000
+property-management-companies,Washington,2161,8,18551,1299054000
+property-management-companies,Massachusetts,2078,9,22221,1877874000
+property-management-companies,Illinois,2070,10,19864,1506893000
+property-management-companies,New Jersey,2025,11,18766,1288783000
+property-management-companies,Pennsylvania,1896,12,17938,1266343000
+property-management-companies,Ohio,1883,13,20056,1315212000
+property-management-companies,Virginia,1883,14,18786,1318383000
+property-management-companies,Oregon,1650,15,12013,642617000
+property-management-companies,Maryland,1538,16,17134,1309593000
+property-management-companies,Arizona,1448,17,17608,1127110000
+property-management-companies,Michigan,1383,18,19869,1075406000
+property-management-companies,Tennessee,1250,19,11312,780218000
+property-management-companies,Minnesota,1177,20,13706,766198000
+property-management-companies,South Carolina,1047,21,8078,423700000
+property-management-companies,Utah,1041,22,6870,399963000
+property-management-companies,Missouri,1015,23,13571,873055000
+property-management-companies,Indiana,961,24,10634,814825000
+property-management-companies,Wisconsin,959,25,9499,462051000
+property-management-companies,Nevada,746,26,7877,454203000
+property-management-companies,Louisiana,739,27,5767,248967000
+property-management-companies,Oklahoma,725,28,4258,192738000
+property-management-companies,Connecticut,715,29,5047,338052000
+property-management-companies,Alabama,673,30,7171,391788000
+property-management-companies,Kansas,567,31,4183,210589000
+property-management-companies,Kentucky,560,32,5037,292170000
+property-management-companies,Idaho,465,33,4186,236065000
+property-management-companies,District of Columbia,449,34,4115,391740000
+property-management-companies,Iowa,423,35,2696,156099000
+property-management-companies,New Mexico,405,36,2291,123184000
+property-management-companies,Arkansas,402,37,2310,105758000
+property-management-companies,Maine,375,38,2809,149820000
+property-management-companies,Hawaii,370,39,3190,204532000
+property-management-companies,Mississippi,357,40,2272,114759000
+property-management-companies,Montana,339,41,1494,64284000
+property-management-companies,New Hampshire,322,42,2862,159733000
+property-management-companies,Nebraska,284,43,4428,253293000
+property-management-companies,Rhode Island,265,44,1842,118289000
+property-management-companies,Delaware,242,45,1955,130622000
+property-management-companies,Vermont,188,46,1003,46189000
+property-management-companies,North Dakota,182,47,2086,119233000
+property-management-companies,West Virginia,170,48,885,48032000
+property-management-companies,South Dakota,168,49,1248,67378000
+property-management-companies,Wyoming,149,50,558,27887000
+property-management-companies,Alaska,104,51,438,25397000
+fitness-centers,California,5371,1,86970,2009799000
+fitness-centers,Texas,3465,2,53039,1010945000
+fitness-centers,Florida,2791,3,39978,809849000
+fitness-centers,New York,2498,4,45436,1118817000
+fitness-centers,Pennsylvania,1637,5,27888,485003000
+fitness-centers,Illinois,1621,6,32618,655917000
+fitness-centers,New Jersey,1495,7,28262,583809000
+fitness-centers,North Carolina,1415,8,23688,381997000
+fitness-centers,Ohio,1294,9,22860,344207000
+fitness-centers,Massachusetts,1230,10,25109,531946000
+fitness-centers,Virginia,1220,11,21975,381163000
+fitness-centers,Georgia,1186,12,18346,305434000
+fitness-centers,Washington,1054,13,19125,412315000
+fitness-centers,Colorado,972,14,15231,289643000
+fitness-centers,Michigan,930,15,17829,317481000
+fitness-centers,Wisconsin,836,16,17773,263751000
+fitness-centers,Arizona,813,17,16141,280672000
+fitness-centers,Tennessee,786,18,12702,228257000
+fitness-centers,Minnesota,748,19,14939,263190000
+fitness-centers,Indiana,739,20,12675,194544000
+fitness-centers,Maryland,704,21,14580,263046000
+fitness-centers,Missouri,697,22,12441,185313000
+fitness-centers,Connecticut,578,23,11064,252308000
+fitness-centers,South Carolina,574,24,8457,122573000
+fitness-centers,Oregon,555,25,8219,173770000
+fitness-centers,Louisiana,509,26,6186,107571000
+fitness-centers,Alabama,495,27,6802,95802000
+fitness-centers,Oklahoma,410,28,6655,101227000
+fitness-centers,Iowa,398,29,7093,90856000
+fitness-centers,Kentucky,390,30,6699,96384000
+fitness-centers,Utah,367,31,7579,100641000
+fitness-centers,Nevada,345,32,6406,125100000
+fitness-centers,Nebraska,304,33,5439,72752000
+fitness-centers,Kansas,302,34,6209,97504000
+fitness-centers,New Hampshire,292,35,4732,80386000
+fitness-centers,Arkansas,257,36,2724,43719000
+fitness-centers,Mississippi,255,37,3147,46554000
+fitness-centers,Idaho,233,38,3672,55486000
+fitness-centers,Montana,215,39,3058,45324000
+fitness-centers,New Mexico,201,40,2729,45235000
+fitness-centers,Maine,189,41,2650,55922000
+fitness-centers,Rhode Island,178,42,2609,51738000
+fitness-centers,Delaware,170,43,2956,70513000
+fitness-centers,District of Columbia,121,44,2175,63337000
+fitness-centers,West Virginia,118,45,1566,22850000
+fitness-centers,South Dakota,114,46,1846,30873000
+fitness-centers,North Dakota,112,47,2168,40643000
+fitness-centers,Hawaii,99,48,1873,36162000
+fitness-centers,Vermont,92,49,1445,24243000
+fitness-centers,Alaska,91,50,1546,25599000
+fitness-centers,Wyoming,90,51,964,14433000

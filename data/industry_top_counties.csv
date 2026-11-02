@@ -1,0 +1,301 @@
+industry,state,county,establishments
+software-companies,California,San Francisco County,805
+software-companies,California,Los Angeles County,717
+software-companies,California,Santa Clara County,685
+software-companies,California,San Mateo County,303
+software-companies,California,Orange County,302
+software-companies,Texas,Travis County,355
+software-companies,Texas,Dallas County,206
+software-companies,Texas,Harris County,204
+software-companies,Texas,Collin County,122
+software-companies,Texas,Williamson County,61
+software-companies,New York,New York County,671
+software-companies,New York,Kings County,171
+software-companies,New York,Westchester County,53
+software-companies,New York,Nassau County,50
+software-companies,New York,Monroe County,43
+it-services-companies,California,Los Angeles County,4424
+it-services-companies,California,Santa Clara County,2783
+it-services-companies,California,Orange County,2582
+it-services-companies,California,San Diego County,2146
+it-services-companies,California,San Francisco County,1719
+it-services-companies,Texas,Collin County,2418
+it-services-companies,Texas,Dallas County,2293
+it-services-companies,Texas,Harris County,2169
+it-services-companies,Texas,Travis County,1857
+it-services-companies,Texas,Denton County,1063
+it-services-companies,Florida,Miami-Dade County,1627
+it-services-companies,Florida,Broward County,1295
+it-services-companies,Florida,Hillsborough County,946
+it-services-companies,Florida,Palm Beach County,875
+it-services-companies,Florida,Orange County,845
+marketing-agencies,California,Los Angeles County,2460
+marketing-agencies,California,Orange County,667
+marketing-agencies,California,San Diego County,592
+marketing-agencies,California,San Francisco County,392
+marketing-agencies,California,Sacramento County,287
+marketing-agencies,New York,New York County,1554
+marketing-agencies,New York,Kings County,475
+marketing-agencies,New York,Suffolk County,279
+marketing-agencies,New York,Nassau County,234
+marketing-agencies,New York,Westchester County,200
+marketing-agencies,Florida,Miami-Dade County,711
+marketing-agencies,Florida,Broward County,381
+marketing-agencies,Florida,Palm Beach County,379
+marketing-agencies,Florida,Hillsborough County,252
+marketing-agencies,Florida,Orange County,229
+law-firms,California,Los Angeles County,8461
+law-firms,California,Orange County,2869
+law-firms,California,San Diego County,2536
+law-firms,California,San Francisco County,1171
+law-firms,California,Santa Clara County,876
+law-firms,Florida,Miami-Dade County,4083
+law-firms,Florida,Broward County,2556
+law-firms,Florida,Palm Beach County,1915
+law-firms,Florida,Hillsborough County,1337
+law-firms,Florida,Orange County,1295
+law-firms,Texas,Harris County,3182
+law-firms,Texas,Dallas County,2200
+law-firms,Texas,Travis County,1286
+law-firms,Texas,Bexar County,1056
+law-firms,Texas,Tarrant County,864
+accounting-firms,California,Los Angeles County,5684
+accounting-firms,California,Orange County,2300
+accounting-firms,California,San Diego County,1730
+accounting-firms,California,Santa Clara County,964
+accounting-firms,California,Riverside County,747
+accounting-firms,Florida,Miami-Dade County,2323
+accounting-firms,Florida,Broward County,1838
+accounting-firms,Florida,Palm Beach County,1285
+accounting-firms,Florida,Orange County,813
+accounting-firms,Florida,Hillsborough County,779
+accounting-firms,Texas,Harris County,1990
+accounting-firms,Texas,Dallas County,1332
+accounting-firms,Texas,Tarrant County,803
+accounting-firms,Texas,Bexar County,695
+accounting-firms,Texas,Travis County,658
+dental-practices,California,Los Angeles County,6420
+dental-practices,California,Orange County,2876
+dental-practices,California,San Diego County,1927
+dental-practices,California,Santa Clara County,1548
+dental-practices,California,Alameda County,981
+dental-practices,Texas,Harris County,2302
+dental-practices,Texas,Dallas County,1476
+dental-practices,Texas,Tarrant County,1029
+dental-practices,Texas,Bexar County,805
+dental-practices,Texas,Collin County,802
+dental-practices,Florida,Miami-Dade County,1543
+dental-practices,Florida,Broward County,1086
+dental-practices,Florida,Palm Beach County,810
+dental-practices,Florida,Hillsborough County,664
+dental-practices,Florida,Orange County,532
+real-estate-agencies,California,Los Angeles County,6071
+real-estate-agencies,California,San Diego County,2942
+real-estate-agencies,California,Orange County,2860
+real-estate-agencies,California,Riverside County,1169
+real-estate-agencies,California,Santa Clara County,1139
+real-estate-agencies,Florida,Miami-Dade County,2543
+real-estate-agencies,Florida,Broward County,1975
+real-estate-agencies,Florida,Palm Beach County,1975
+real-estate-agencies,Florida,Orange County,1672
+real-estate-agencies,Florida,Hillsborough County,1334
+real-estate-agencies,Texas,Harris County,1712
+real-estate-agencies,Texas,Dallas County,1297
+real-estate-agencies,Texas,Travis County,1248
+real-estate-agencies,Texas,Bexar County,807
+real-estate-agencies,Texas,Collin County,806
+insurance-agencies,California,Los Angeles County,3866
+insurance-agencies,California,Orange County,1920
+insurance-agencies,California,San Diego County,1293
+insurance-agencies,California,Riverside County,603
+insurance-agencies,California,Santa Clara County,562
+insurance-agencies,Texas,Harris County,1922
+insurance-agencies,Texas,Dallas County,1248
+insurance-agencies,Texas,Tarrant County,911
+insurance-agencies,Texas,Bexar County,777
+insurance-agencies,Texas,Collin County,632
+insurance-agencies,Florida,Miami-Dade County,1628
+insurance-agencies,Florida,Broward County,1370
+insurance-agencies,Florida,Palm Beach County,1077
+insurance-agencies,Florida,Hillsborough County,747
+insurance-agencies,Florida,Orange County,677
+construction-companies,California,Los Angeles County,6707
+construction-companies,California,San Diego County,2847
+construction-companies,California,Orange County,2650
+construction-companies,California,Santa Clara County,1511
+construction-companies,California,Riverside County,1484
+construction-companies,New York,Queens County,2765
+construction-companies,New York,Suffolk County,2624
+construction-companies,New York,Kings County,1954
+construction-companies,New York,Nassau County,1865
+construction-companies,New York,Westchester County,1374
+construction-companies,Florida,Miami-Dade County,2009
+construction-companies,Florida,Palm Beach County,1606
+construction-companies,Florida,Broward County,1535
+construction-companies,Florida,Orange County,1523
+construction-companies,Florida,Hillsborough County,1159
+hvac-plumbing-contractors,California,Los Angeles County,2765
+hvac-plumbing-contractors,California,San Diego County,1072
+hvac-plumbing-contractors,California,Orange County,1028
+hvac-plumbing-contractors,California,Riverside County,879
+hvac-plumbing-contractors,California,San Bernardino County,563
+hvac-plumbing-contractors,Florida,Miami-Dade County,1046
+hvac-plumbing-contractors,Florida,Broward County,881
+hvac-plumbing-contractors,Florida,Palm Beach County,711
+hvac-plumbing-contractors,Florida,Hillsborough County,631
+hvac-plumbing-contractors,Florida,Lee County,550
+hvac-plumbing-contractors,Texas,Harris County,1187
+hvac-plumbing-contractors,Texas,Dallas County,727
+hvac-plumbing-contractors,Texas,Tarrant County,631
+hvac-plumbing-contractors,Texas,Bexar County,523
+hvac-plumbing-contractors,Texas,Travis County,369
+restaurants,California,Los Angeles County,21461
+restaurants,California,Orange County,7707
+restaurants,California,San Diego County,6900
+restaurants,California,Santa Clara County,4104
+restaurants,California,Riverside County,4016
+restaurants,Texas,Harris County,8852
+restaurants,Texas,Dallas County,5390
+restaurants,Texas,Tarrant County,4055
+restaurants,Texas,Bexar County,3621
+restaurants,Texas,Travis County,2681
+restaurants,New York,New York County,8079
+restaurants,New York,Kings County,5611
+restaurants,New York,Queens County,5031
+restaurants,New York,Suffolk County,3479
+restaurants,New York,Nassau County,3405
+manufacturing-companies,California,Los Angeles County,10122
+manufacturing-companies,California,Orange County,4281
+manufacturing-companies,California,San Diego County,2929
+manufacturing-companies,California,Santa Clara County,1984
+manufacturing-companies,California,San Bernardino County,1732
+manufacturing-companies,Texas,Harris County,4126
+manufacturing-companies,Texas,Dallas County,2193
+manufacturing-companies,Texas,Tarrant County,1604
+manufacturing-companies,Texas,Travis County,911
+manufacturing-companies,Texas,Bexar County,890
+manufacturing-companies,Florida,Miami-Dade County,2206
+manufacturing-companies,Florida,Broward County,1458
+manufacturing-companies,Florida,Pinellas County,1060
+manufacturing-companies,Florida,Palm Beach County,1019
+manufacturing-companies,Florida,Orange County,931
+management-consulting-firms,California,Los Angeles County,5705
+management-consulting-firms,California,Orange County,2672
+management-consulting-firms,California,San Diego County,2194
+management-consulting-firms,California,Santa Clara County,795
+management-consulting-firms,California,San Francisco County,768
+management-consulting-firms,Florida,Miami-Dade County,2223
+management-consulting-firms,Florida,Broward County,1604
+management-consulting-firms,Florida,Palm Beach County,1317
+management-consulting-firms,Florida,Orange County,821
+management-consulting-firms,Florida,Hillsborough County,742
+management-consulting-firms,Texas,Harris County,1776
+management-consulting-firms,Texas,Dallas County,1149
+management-consulting-firms,Texas,Travis County,1142
+management-consulting-firms,Texas,Collin County,778
+management-consulting-firms,Texas,Tarrant County,655
+staffing-agencies,California,Los Angeles County,1632
+staffing-agencies,California,Orange County,684
+staffing-agencies,California,San Diego County,563
+staffing-agencies,California,Santa Clara County,345
+staffing-agencies,California,Sacramento County,293
+staffing-agencies,Texas,Harris County,1091
+staffing-agencies,Texas,Dallas County,840
+staffing-agencies,Texas,Travis County,459
+staffing-agencies,Texas,Tarrant County,349
+staffing-agencies,Texas,Bexar County,306
+staffing-agencies,Florida,Broward County,488
+staffing-agencies,Florida,Miami-Dade County,418
+staffing-agencies,Florida,Hillsborough County,410
+staffing-agencies,Florida,Palm Beach County,352
+staffing-agencies,Florida,Orange County,334
+architecture-firms,California,Los Angeles County,1231
+architecture-firms,California,Orange County,441
+architecture-firms,California,San Francisco County,383
+architecture-firms,California,San Diego County,332
+architecture-firms,California,Alameda County,217
+architecture-firms,New York,New York County,804
+architecture-firms,New York,Kings County,277
+architecture-firms,New York,Suffolk County,186
+architecture-firms,New York,Westchester County,142
+architecture-firms,New York,Queens County,133
+architecture-firms,Florida,Miami-Dade County,433
+architecture-firms,Florida,Palm Beach County,175
+architecture-firms,Florida,Broward County,170
+architecture-firms,Florida,Hillsborough County,126
+architecture-firms,Florida,Orange County,124
+trucking-companies,California,Los Angeles County,7345
+trucking-companies,California,San Bernardino County,2532
+trucking-companies,California,Riverside County,1602
+trucking-companies,California,San Joaquin County,1291
+trucking-companies,California,Fresno County,1256
+trucking-companies,Illinois,Cook County,6896
+trucking-companies,Illinois,DuPage County,1952
+trucking-companies,Illinois,Will County,1429
+trucking-companies,Illinois,Lake County,673
+trucking-companies,Illinois,Kane County,643
+trucking-companies,Texas,Harris County,2124
+trucking-companies,Texas,Dallas County,1159
+trucking-companies,Texas,Tarrant County,1038
+trucking-companies,Texas,Webb County,723
+trucking-companies,Texas,El Paso County,710
+hotels,California,Los Angeles County,1258
+hotels,California,San Diego County,531
+hotels,California,Orange County,512
+hotels,California,Riverside County,296
+hotels,California,San Francisco County,273
+hotels,Texas,Harris County,877
+hotels,Texas,Dallas County,561
+hotels,Texas,Bexar County,375
+hotels,Texas,Tarrant County,331
+hotels,Texas,Travis County,220
+hotels,Florida,Miami-Dade County,480
+hotels,Florida,Orange County,322
+hotels,Florida,Broward County,302
+hotels,Florida,Pinellas County,213
+hotels,Florida,Hillsborough County,177
+medical-practices,California,Los Angeles County,10598
+medical-practices,California,Orange County,4197
+medical-practices,California,San Diego County,2821
+medical-practices,California,Riverside County,1529
+medical-practices,California,San Bernardino County,1273
+medical-practices,Texas,Harris County,4110
+medical-practices,Texas,Dallas County,2412
+medical-practices,Texas,Tarrant County,1857
+medical-practices,Texas,Bexar County,1731
+medical-practices,Texas,Collin County,1554
+medical-practices,Florida,Miami-Dade County,3217
+medical-practices,Florida,Palm Beach County,2170
+medical-practices,Florida,Broward County,2139
+medical-practices,Florida,Hillsborough County,1429
+medical-practices,Florida,Orange County,1292
+property-management-companies,California,Los Angeles County,3851
+property-management-companies,California,San Diego County,1510
+property-management-companies,California,Orange County,1467
+property-management-companies,California,Santa Clara County,666
+property-management-companies,California,Riverside County,524
+property-management-companies,New York,New York County,2059
+property-management-companies,New York,Kings County,1291
+property-management-companies,New York,Nassau County,639
+property-management-companies,New York,Queens County,639
+property-management-companies,New York,Westchester County,453
+property-management-companies,Florida,Miami-Dade County,1194
+property-management-companies,Florida,Broward County,779
+property-management-companies,Florida,Palm Beach County,667
+property-management-companies,Florida,Orange County,619
+property-management-companies,Florida,Hillsborough County,381
+fitness-centers,California,Los Angeles County,1283
+fitness-centers,California,Orange County,582
+fitness-centers,California,San Diego County,578
+fitness-centers,California,Santa Clara County,309
+fitness-centers,California,Riverside County,262
+fitness-centers,Texas,Harris County,523
+fitness-centers,Texas,Dallas County,334
+fitness-centers,Texas,Travis County,292
+fitness-centers,Texas,Tarrant County,275
+fitness-centers,Texas,Collin County,234
+fitness-centers,Florida,Miami-Dade County,369
+fitness-centers,Florida,Broward County,283
+fitness-centers,Florida,Palm Beach County,248
+fitness-centers,Florida,Hillsborough County,239
+fitness-centers,Florida,Orange County,208

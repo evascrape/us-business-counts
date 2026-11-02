@@ -1,0 +1,91 @@
+role,industry,employment
+ceo,"Professional, Scientific, and Technical Services",39980
+ceo,"Government (federal, state and local)",25430
+ceo,Educational Services,17240
+ceo,Management of Companies and Enterprises,16730
+ceo,Administrative and Support Services,9360
+ceo,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",8710
+operations-manager,"Professional, Scientific, and Technical Services",439080
+operations-manager,Administrative and Support Services,234720
+operations-manager,Food Services and Drinking Places,192440
+operations-manager,Specialty Trade Contractors,169690
+operations-manager,"Merchant Wholesalers, Durable Goods",160670
+operations-manager,"Government (federal, state and local)",143370
+marketing-manager,"Professional, Scientific, and Technical Services",97200
+marketing-manager,Management of Companies and Enterprises,50050
+marketing-manager,"Merchant Wholesalers, Durable Goods",19150
+marketing-manager,Publishing Industries,17730
+marketing-manager,Administrative and Support Services,16820
+marketing-manager,"Merchant Wholesalers, Nondurable Goods",16020
+sales-manager,"Professional, Scientific, and Technical Services",83200
+sales-manager,"Merchant Wholesalers, Durable Goods",62680
+sales-manager,"Merchant Wholesalers, Nondurable Goods",45620
+sales-manager,Motor Vehicle and Parts Dealers,41000
+sales-manager,Management of Companies and Enterprises,35830
+sales-manager,Insurance Carriers and Related Activities,26570
+hr-manager,"Professional, Scientific, and Technical Services",33790
+hr-manager,Management of Companies and Enterprises,31650
+hr-manager,Administrative and Support Services,19160
+hr-manager,"Government (federal, state and local)",16490
+hr-manager,Educational Services,14730
+hr-manager,Hospitals,6530
+it-manager,"Professional, Scientific, and Technical Services",205040
+it-manager,Management of Companies and Enterprises,71800
+it-manager,Publishing Industries,35950
+it-manager,Insurance Carriers and Related Activities,32620
+it-manager,"Government (federal, state and local)",30840
+it-manager,Educational Services,30810
+finance-manager,Credit Intermediation and Related Activities,133730
+finance-manager,"Professional, Scientific, and Technical Services",115660
+finance-manager,Management of Companies and Enterprises,93210
+finance-manager,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",61830
+finance-manager,Insurance Carriers and Related Activities,57450
+finance-manager,"Government (federal, state and local)",51050
+purchasing-manager,Management of Companies and Enterprises,15910
+purchasing-manager,"Government (federal, state and local)",10020
+purchasing-manager,"Professional, Scientific, and Technical Services",7020
+purchasing-manager,Transportation Equipment Manufacturing,4810
+purchasing-manager,"Merchant Wholesalers, Durable Goods",4530
+purchasing-manager,"Merchant Wholesalers, Nondurable Goods",4500
+construction-manager,Construction of Buildings,140410
+construction-manager,Specialty Trade Contractors,93680
+construction-manager,Heavy and Civil Engineering Construction,43440
+construction-manager,"Professional, Scientific, and Technical Services",15160
+construction-manager,"Government (federal, state and local)",12780
+construction-manager,Real Estate,9290
+medical-practice-manager,Ambulatory Health Care Services,207540
+medical-practice-manager,Hospitals,171340
+medical-practice-manager,Nursing and Residential Care Facilities,53940
+medical-practice-manager,"Government (federal, state and local)",41620
+medical-practice-manager,Management of Companies and Enterprises,17930
+medical-practice-manager,"Professional, Scientific, and Technical Services",17060
+property-manager,Real Estate,238600
+property-manager,Management of Companies and Enterprises,9610
+property-manager,"Government (federal, state and local)",7740
+property-manager,"Professional, Scientific, and Technical Services",7480
+property-manager,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",7290
+property-manager,Administrative and Support Services,5650
+recruiter,Administrative and Support Services,174930
+recruiter,"Professional, Scientific, and Technical Services",133160
+recruiter,"Government (federal, state and local)",88670
+recruiter,Management of Companies and Enterprises,70720
+recruiter,Educational Services,45880
+recruiter,Ambulatory Health Care Services,35590
+software-engineer,"Professional, Scientific, and Technical Services",690860
+software-engineer,Publishing Industries,163830
+software-engineer,Management of Companies and Enterprises,99720
+software-engineer,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",77830
+software-engineer,Computer and Electronic Product Manufacturing,76580
+software-engineer,Credit Intermediation and Related Activities,65660
+accountant,"Professional, Scientific, and Technical Services",483970
+accountant,"Government (federal, state and local)",117080
+accountant,Management of Companies and Enterprises,104930
+accountant,Administrative and Support Services,67610
+accountant,Educational Services,50520
+accountant,Real Estate,46200
+financial-advisor,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",193920
+financial-advisor,Credit Intermediation and Related Activities,49280
+financial-advisor,"Professional, Scientific, and Technical Services",8940
+financial-advisor,Insurance Carriers and Related Activities,7970
+financial-advisor,Management of Companies and Enterprises,4490
+financial-advisor,"Funds, Trusts, and Other Financial Vehicles",1390
