@@ -90,4 +90,4 @@ The BLS site asks automated downloads to identify themselves; set a User-Agent w
 
 ## Who made this
 
-[Evascrape](https://evascrape.com/), a pay-per-record B2B lead list tool, uses these numbers to size lists before building them. The data here is independent of Evascrape's product and anyone can use it. See also [Awesome B2B Lead Sources](https://github.com/evascrape/awesome-b2b-lead-sources), a list of public business data sources.
+[Evascrape](https://evascrape.com/), a pay-per-record B2B lead list tool, uses these numbers to size lists before building them. The same Census and BLS figures are shown per industry at [evascrape.com/leads](https://evascrape.com/leads), with pages for the three largest states of each industry, and per job title at [evascrape.com/titles](https://evascrape.com/titles). The data here is independent of Evascrape's product and anyone can use it. See also [Awesome B2B Lead Sources](https://github.com/evascrape/awesome-b2b-lead-sources), a list of public business data sources.
